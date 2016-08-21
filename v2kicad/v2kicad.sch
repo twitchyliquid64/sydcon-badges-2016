@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:v2kicad-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -59,7 +60,7 @@ U 1 1 57B68364
 P 6750 3175
 F 0 "BT1" H 6850 3225 50  0000 L CNN
 F 1 "Battery" H 6850 3125 50  0000 L CNN
-F 2 "xxx:CR2032-white-smd" H 7600 3125 50  0000 C CNN
+F 2 "sydcon-badges-2016:CR2032-white-smd (1)" H 7950 3200 50  0000 C CNN
 F 3 "" V 6750 3215 50  0000 C CNN
 	1    6750 3175
 	-1   0    0    1   

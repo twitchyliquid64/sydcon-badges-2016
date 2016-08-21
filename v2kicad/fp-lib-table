@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name v2kicad)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name sydcon-badges-2016)(type KiCad)(uri /home/xxx/sydcon-badges-2016)(options "")(descr ""))
+)
